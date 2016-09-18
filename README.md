@@ -1,5 +1,6 @@
 How to use:-
 
-var numFormatter = require('@kishanmadhesiya/number-formatter');
+var numChange = require('@kishanmadhesiya/number-converter');
 
-var formattedNum = numFormatter(11221122);
+var formattedNum = numChange(11221122);
+console.log(formattedNum);
