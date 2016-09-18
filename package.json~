@@ -1,5 +1,5 @@
 {
-  "name": "number-converter",
+  "name": "@kishanmadhesiya/number-converter",
   "version": "1.0.0",
   "description": "convert number into hundred thousand formatter",
   "main": "index.js",
