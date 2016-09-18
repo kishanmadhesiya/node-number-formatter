@@ -1,0 +1,29 @@
+{
+  "name": "@kishanmadhesiya/number-converter",
+  "version": "1.0.0",
+  "description": "convert number into hundred thousand formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kishanmadhesiya/node-number-formatter"
+  },
+  "keywords": [
+    "number",
+    "converter"
+  ],
+  "author": "“kishan” <“kishanmadhesiya@gmail.com”>",
+  "license": "na",
+  "bugs": {
+    "url": "https://github.com/kishanmadhesiya/node-number-formatter/issues"
+  },
+  "devDependencies": {
+    "mocha": "~3.0.2",
+    "chai": "~3.5.0"
+  },
+"engines": {
+  "node": ">=4.2.4"
+}
+}
